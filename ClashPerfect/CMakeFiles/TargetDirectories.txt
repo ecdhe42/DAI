@@ -1,0 +1,4 @@
+/Users/laurent/MemoryLane/DAI/ClashPerfect/CMakeFiles/clash.dir
+/Users/laurent/MemoryLane/DAI/ClashPerfect/CMakeFiles/clashall.dir
+/Users/laurent/MemoryLane/DAI/ClashPerfect/CMakeFiles/edit_cache.dir
+/Users/laurent/MemoryLane/DAI/ClashPerfect/CMakeFiles/rebuild_cache.dir

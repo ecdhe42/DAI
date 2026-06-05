@@ -1,0 +1,21 @@
+{
+    "palette": [0, 13, 10, 5],
+    "screenLines": 346,
+    "positions": [
+        {
+            "name": "Screen",
+            "offset": "0xBFFF",
+            "width": 352
+        },
+        {
+            "name": "Title",
+            "offset": "0x6A27",
+            "width": 136
+        },
+        {
+            "name": "Sprites",
+            "offset": "0x6A27",
+            "width": 64
+        }
+    ]
+}

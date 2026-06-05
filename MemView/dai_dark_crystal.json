@@ -1,0 +1,21 @@
+{
+    "palette": [0, 7, 10, 15],
+    "screenLines": 285,
+    "positions": [
+        {
+            "name": "Screen",
+            "offset": "0xBFFF",
+            "width": 352
+        },
+        {
+            "name": "Splash Screen",
+            "offset": "0x5181",
+            "width": 160
+        },
+        {
+            "name": "Sprites",
+            "offset": "0x529E",
+            "width": 16
+        }
+    ]
+}

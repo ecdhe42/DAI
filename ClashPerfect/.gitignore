@@ -1,0 +1,7 @@
+vsproj/
+debug/
+build/
+.DS_Store
+.cache/
+xcode/
+.vscode/
